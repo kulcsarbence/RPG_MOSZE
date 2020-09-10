@@ -47,7 +47,7 @@ void Control::Report(Unit firstplayer, Unit secondplayer)
 
 void Control::GameStart(Unit & firstplayer, Unit & secondplayer)
 {
-	int hp,dmg;
+	/*int hp,dmg;
 	std::string player_stats;
 	std::getline(std::cin,player_stats);
 	std::vector<std::string> result;
@@ -62,7 +62,7 @@ void Control::GameStart(Unit & firstplayer, Unit & secondplayer)
 	std::stringstream(result[4]) >> hp;
 	std::stringstream(result[5]) >> dmg;
 	Unit player2(hp,dmg, result[3]);
-	secondplayer = player2;
+	secondplayer = player2;*/
 }
 	
 
